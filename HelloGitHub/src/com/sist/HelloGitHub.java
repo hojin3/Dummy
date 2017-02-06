@@ -9,5 +9,6 @@ public class HelloGitHub {
 		System.out.println("Conflict");
 		System.out.println("fetched");
 		System.out.println("Pushed");
+		System.out.println("Git pull testing");
 	}
 }
