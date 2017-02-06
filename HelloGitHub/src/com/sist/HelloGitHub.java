@@ -7,6 +7,10 @@ public class HelloGitHub {
 		System.out.println("It's DVCS");
 		System.out.println("It's collaboration");
 		System.out.println("Conflict");
+<<<<<<< HEAD
 		System.out.println("fetched");
+=======
+		System.out.println("Pushed");
+>>>>>>> refs/remotes/origin/master
 	}
 }
